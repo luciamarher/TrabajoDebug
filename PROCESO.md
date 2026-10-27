@@ -83,4 +83,5 @@ npx skills add https://github.com/leonxlnx/taste-skill --skill design-taste-fron
 Una vez instalada, le hemos dado la instrucción a la IA para que la aplique a lo que ya teníamos:
 
 > “*Usa la skill `design-taste-frontend` para modificar el frontend de la pagina sin cambiar el contenido*”
->
+>También le pedimos que nos documentara lo realizado con la skill pública en el archivo `skill-publica.md` con el siguiente prompt:
+>  “*Documenta en skill-publica la skill design-taste-frontend que hemos utilizado para el frontend siguiendo las indicaciones*”

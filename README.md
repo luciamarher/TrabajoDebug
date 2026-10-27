@@ -27,10 +27,8 @@ La página explica:
 
 ## Web publicada
 
-La web está disponible en [`index.html`](./index.html).
+La web está disponible en (https://luciamarher.github.io/TrabajoDebug/)
 
-> Cuando se publique mediante GitHub Pages, sustituid esta referencia por la URL pública:
-> `https://<usuario>.github.io/<repositorio>/`
 
 ## Estructura relevante
 
